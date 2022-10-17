@@ -10,3 +10,4 @@ Short version:
 TODO 
 - Add readme
 - Add an example of the spreadsheet
+- Add Trigger settings for Apps Script
